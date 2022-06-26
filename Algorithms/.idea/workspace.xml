@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e74800d4-f7a5-4f21-87c7-2141aa835c0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="269OnU5Ay6yOtzEwloTlYFS5Pwf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.purpose">
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main9" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution4" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionMidPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolutionMidPoint" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyingAlgor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudyingAlgor" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="purpose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="purpose" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.purpose" />
+        <item itemvalue="Application.SolutionMidPoint" />
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.StudyingAlgor" />
+        <item itemvalue="Application.Main9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74800d4-f7a5-4f21-87c7-2141aa835c0b" name="Default Changelist" comment="" />
+      <created>1646832501621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646832501621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1647699985343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1647699985343" />
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1650964444458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1649276920552" />
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1647699741243" />
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1650964444458" />
+    <state width="422" height="466" key="DebuggerActiveHint" timestamp="1650325789493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="422" height="466" key="DebuggerActiveHint/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650325789493" />
+    <state width="416" height="466" key="DebuggerActiveHint/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624777174" />
+    <state width="520" height="590" key="DebuggerActiveHint/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648649794501" />
+    <state width="416" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1649971801634" />
+    <state width="1281" height="195" key="GridCell.Tab.0.bottom" timestamp="1653261691066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326223781" />
+    <state width="1281" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624815604" />
+    <state width="1601" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054571" />
+    <state width="1281" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1653261691066" />
+    <state width="1281" height="195" key="GridCell.Tab.0.center" timestamp="1653261691066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.0.center/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326223781" />
+    <state width="1281" height="195" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624815603" />
+    <state width="1601" height="195" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054571" />
+    <state width="1281" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1653261691066" />
+    <state width="1281" height="195" key="GridCell.Tab.0.left" timestamp="1653261691066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.0.left/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326223781" />
+    <state width="1281" height="195" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624815603" />
+    <state width="1601" height="195" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054571" />
+    <state width="1281" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1653261691066" />
+    <state width="1281" height="195" key="GridCell.Tab.0.right" timestamp="1653261691066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.0.right/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326223781" />
+    <state width="1281" height="195" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624815604" />
+    <state width="1601" height="195" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054571" />
+    <state width="1281" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1653261691066" />
+    <state width="1281" height="195" key="GridCell.Tab.1.bottom" timestamp="1653261691419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326163181" />
+    <state width="1281" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624816067" />
+    <state width="1601" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054335" />
+    <state width="1281" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1653261691419" />
+    <state width="1281" height="195" key="GridCell.Tab.1.center" timestamp="1653261691418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.1.center/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326163181" />
+    <state width="1281" height="195" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624816067" />
+    <state width="1601" height="195" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054335" />
+    <state width="1281" height="195" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1653261691418" />
+    <state width="1281" height="195" key="GridCell.Tab.1.left" timestamp="1653261691418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.1.left/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326163181" />
+    <state width="1281" height="195" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624816066" />
+    <state width="1601" height="195" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054335" />
+    <state width="1281" height="195" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1653261691418" />
+    <state width="1281" height="195" key="GridCell.Tab.1.right" timestamp="1653261691419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="195" key="GridCell.Tab.1.right/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1650326163181" />
+    <state width="1281" height="195" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1648624816067" />
+    <state width="1601" height="195" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1648651054335" />
+    <state width="1281" height="195" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1653261691419" />
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1651586886811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1649206323653" />
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1651586886811" />
+    <state x="346" y="96" width="588" height="488" key="find.popup" timestamp="1649287273975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="96" width="588" height="488" key="find.popup/0.0.1280.680/1920.-56.1280.680@0.0.1280.680" timestamp="1649287273975" />
+    <state x="91" y="45" key="new project wizard" timestamp="1651773348412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1651773348412" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1648160346002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1648160346002" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>480</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>483</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>482</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>490</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>653</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>652</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>658</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>649</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>420</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>675</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>665</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>663</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>676</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>670</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>679</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>778</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1013</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1194</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1185</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1190</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1183</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1394</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1393</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>1496</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructuresCourse.java</url>
+          <line>391</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>330</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>332</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>352</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>353</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>354</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>333</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>337</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>338</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>343</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TopologicalOrdering.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>278</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>281</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>284</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>308</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>299</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>468</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>446</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>441</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StudyingAlgor.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
